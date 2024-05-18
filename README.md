@@ -16,7 +16,6 @@ Installation
 Clone the Repository
 
 bash
-Copy code
 git clone https://github.com/yourusername/WebDataExtractor.git
 cd WebDataExtractor
 Install Required Libraries
@@ -24,18 +23,15 @@ Install Required Libraries
 You can install the required libraries using pip:
 
 bash
-Copy code
 pip install -r requirements.txt
 Or install them individually:
 
 bash
-Copy code
 pip install requests beautifulsoup4 pandas
 Usage
 Run the Application
 
 bash
-Copy code
 python web_data_extractor.py
 Using the GUI
 
@@ -118,7 +114,8 @@ root.mainloop()
 Requirements File
 Create a requirements.txt file with the following contents:
 
-Copy code
+Requirements File
+
 requests
 beautifulsoup4
 pandas

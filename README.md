@@ -16,7 +16,7 @@ Installation
 Clone the Repository
 
 bash
-git clone https://github.com/yourusername/WebDataExtractor.git
+git clone https://github.com/nigam498/WebDataExtractor.git
 cd WebDataExtractor
 Install Required Libraries
 
